@@ -5,6 +5,6 @@ Projeto feito a partir do layout da Comunidade Codelândia, ele foi feito para c
 ***Front-end:*** HTML, CSS e JavaScript
 
 ### Demonstração
-[BlogCodelancia](https://bikcraft-chi-puce.vercel.app)
+[BlogCodelancia](https://blog-codelandia-chi.vercel.app)
 <hr>
 
